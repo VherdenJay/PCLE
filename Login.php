@@ -19,6 +19,7 @@ if(isset($_POST['submit'])){
         }
     }
 }
+
     
 ?>
 <!DOCTYPE html>
@@ -54,7 +55,8 @@ if(isset($_POST['submit'])){
     <script>
         <?php if($loginFailed == "true") {?>
             document.getElementById("alert").style.display = "block";
-            <?php } ?>
+            <?php } 
+            ?>
     </script>
 </body>
 </html>
