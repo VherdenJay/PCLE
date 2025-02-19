@@ -29,11 +29,13 @@
         <input type="text" class="passwordf" id="passwordi" name="password">
     </div>
 
-    <div class="mb-3 form-check">
-        <input type="checkbox" class="form-check-input" id="exampleCheck1">
-        <label class="form-check-label" for="exampleCheck1">Check me out</label>
-    </div>
     <button type="submit" class="btn btn-primary"name="submit">Submit</button>
+
+    <div class="txt">
+        <p>Already have an account?   <a href="Login.php">Log In</a></p>
+    </div>
+
+    
     </form>
 </body>
 </html>

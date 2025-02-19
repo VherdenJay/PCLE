@@ -46,7 +46,7 @@ if(isset($_POST['submit'])){
     <button type="submit" class="btn btn-primary"name="submit">Submit</button><br>
 
     <div class="txt">
-        <p>Wala ka bang account?   <a href="Register.php">Mag Jakol</a></p>
+        <p>Need account?   <a href="Register.php">Sign Up</a></p>
     </div>
     
     </form>
